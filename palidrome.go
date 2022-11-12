@@ -21,8 +21,8 @@ func main() {
 		}
 	}
 	if count == len(rs) {
-		fmt.Println("Палиндром")
+		fmt.Println("Palindrome")
 	} else {
-		fmt.Println("Нет")
+		fmt.Println("No")
 	}
 }
